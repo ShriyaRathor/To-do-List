@@ -1,0 +1,77 @@
+body{
+    background-color: #FFE6F7;
+    font-family: 'Dancing Script', cursive;
+       
+}
+
+.Heading {
+    font-family: 'Dancing Script', cursive;
+    width: 85%;
+    font-size: 3rem;
+    color: #FFE6F7;
+    margin: 0;
+    padding-left: 10px;
+
+}
+
+h2{
+    color: #937DC2;
+    font-size: 3rem;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    
+}
+
+.Navbar {
+    position: fixed;
+    background-color: #937DC2;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 4rem;
+    display: flex;
+    /* flex-direction: column; */
+}
+
+
+.navbar-element {
+    text-align: center;
+    font-size: 2rem;
+    position: relative;
+    display: block;
+    color: #FFE6F7;   
+    margin: auto 1rem;
+    
+
+}
+
+
+.navbar-element:hover  {
+    color: #FFABE1;
+}
+
+
+
+.container {
+    background-color: #C689C6;
+    display: block;
+    margin: 4.5rem auto;
+    width: 20rem;
+    height: 20rem;
+    max-height: fit-content;
+}
+
+
+#currentDay {
+    background-color: #937DC2;
+    padding: 20px 10px;
+    color: #FFE6F7;
+    font-size: 2rem;
+    margin: auto;
+    text-align: center;
+    font-weight: 900;
+}
+
+
+
+
