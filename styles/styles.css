@@ -72,6 +72,9 @@ h2{
     font-weight: 900;
 }
 
+#section {
+    max-height: fit-content;
+}
 
 
 
